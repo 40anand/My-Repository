@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.Light">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorPrimary">@color/primary_color</item>
+    </style>
+
+</resources>
